@@ -37,9 +37,9 @@ module.exports = {
       { text: "Github", link: "https://www.github.com/maliaoMJ" }
     ],
     sidebar: {
-      "/javascript/": ["", "base", "test"],
-      "/css3/": ["", "base"],
-      "/html5/": ["", "base"]
+      "/javascript/": ["", "base"],
+      "/css3/": [""],
+      "/html5/": [""]
     },
     sidebarDepth: 2,
     lastUpdated: true,
